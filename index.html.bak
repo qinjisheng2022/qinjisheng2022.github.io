@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta name="robots" content="index, follow" />
+    <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="keywords" content="Jisheng Qin, 秦吉胜, Graph Neural Networks, Federated Learning">
+    <link rel="stylesheet" href="./Resource/jemdoc.css" type="text/css" />
+    <script src="jquery.min.js"></script>
+    <link rel="shortcut icon" href="./Resource/favicon.ico">
+    <title>Jisheng Qin (秦吉胜)</title>
+</head>
+ 
+<body>
+    <a id="home" class="anchor"></a>
+    <div id="container"> 
+    <div class="container"> 
+
+    <table class="imgtable"><tr><td>
+        <a href="./"><img src="./Resource/photo.JPG" alt="" height="215px" /></a>&nbsp;</td>
+        <td align="left"><p><a href="./"><font size="4">Jisheng Qin (</font><font size="4"; font style="font-family:Microsoft YaHei">秦吉胜</font><font size="4">)</font></a><br />
+        <i> Ph.D & lecturer </i>
+        <br /><br />
+        <a href="https://www.chzu.edu.cn/" target="_blank">Chuzhou University</a><br />
+<br />
+
+<b>Location</b>: ChuZhou, An'hui, China<br />
+<class="staffshortcut">
+ <A HREF="#About">About Me</A> &nbsp;| &nbsp;
+ <A HREF="#Experience">Experience</A> &nbsp; | &nbsp;
+ <A HREF="#Publications">Publications</A> &nbsp; | &nbsp;
+ <A HREF="#Patents">Patents</A> &nbsp; | &nbsp;
+ <A HREF="#Foundations">Foundations</A> &nbsp; | &nbsp;
+ <A HREF="#Awards">Awards</A> &nbsp; | &nbsp;
+ <A HREF="#Projects">Open Source Projects</A> &nbsp;
+<br />
+<br />
+ 
+<b>Email</b>: jisheng.qin.vip@gmail.com &nbsp;&nbsp;&nbsp;&nbsp; <br />
+[<a href="https://scholar.google.com/citations?user=N-G2LgcAAAAJ&hl=en" target="_blank">Google Scholar</a>]
+&nbsp;&nbsp;
+[<a href="https://github.com/qinjisheng" target="_blank">GitHub</a>]
+&nbsp;&nbsp;
+[<a href="https://www.ieeefellow.com" target="_blank">Blog</a>] 
+
+</td></tr></table>
+
+<A NAME="About"><h2>About Me</h2></A>
+I received my Ph.D degree from the <a href="https://www.hhu.edu.cn/" target="_blank">Institute of Intelligence Science and Technology</a>, <a href="https://www.hhu.edu.cn/" target="_blank">Hohai University</a> in 2023. My advisor was <a href="https://cies.hhu.edu.cn/2013/0508/c4122a54869/page.psp" target="_blank">Prof. Xiaoqin Zeng</a>. I am a lecturer in <a href="https://csci.chzu.edu.cn/" target="_blank">Computer and information engineering college</a>, <a href="https://www.chzu.edu.cn/" target="_blank">Chuzou University</a>. Currently, I focus on the following research topics:
+<ul>
+<li>Graph Neural Networks</li>
+<li>Federated Learning</li>
+</ul>
+<br/>
+
+<A NAME="Experience"><h2>Experience</h2></A>
+    <ul>
+        <li>2019.9-NOW &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D. in <a href="https://www.hhu.edu.cn/" target="_blank">Institute of Intelligence Science and Technology</a>, <a href="https://www.hhu.edu.cn/" target="_blank">Hohai University</a>.</li>
+        <li>2018.7-2019.7 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teaching at <a href="http://www.bbc.edu.cn/" target="_blank">Institute of Intelligence Science and Technology</a>, <a href="http://www.bbc.edu.cn/" target="_blank">Bengbu University</a>.</li>
+        <li>2015.9-2018.7 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.E. in <a href="https://www.ahut.edu.cn/" target="_blank">School of Computer Science and Technology</a>, <a href="https://www.ahut.edu.cn/" target="_blank">Anhui University of Technology</a>.</li>
+    </ul>
+<br />
+
+
+<A NAME="Publications"><h2>Publications</h2></A>
+<p><b>Journal Articles</b>: </p>
+<font size="3"> 
+
+<ul>
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
+	<span>[1] <b>J. Qin</b>, X Zeng, S. Wu, Y. Zou “Context-sensitive graph representation learning [J],” <i> Connection Science</i>, 2022, 34(1): 2313-2331. (<b>SCI</b>)  
+		
+		<span style= "float:right;">
+		--
+		[<a href= "https://www.tandfonline.com/doi/full/10.1080/09540091.2022.2115010" target="_blank">Link</a>]
+		&nbsp;&nbsp;&nbsp;
+		[<a href= "http://qinjisheng.top/Files/2022/Feature recommendation strategy for graph convolutional network.pdf" target="_blank">PDF</a>]
+		</span>
+	</span>
+</p>
+</ul>
+
+<ul>
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
+	<span>[2] <b>J. Qin</b>, X Zeng, S. Wu, Y. Zou “Feature recommendation strategy for graph convolutional network [J],” <i> Connection Science</i>, 2022, 34(1): 1697-1718. (<b>SCI</b>)  
+		
+		<span style= "float:right;">
+		--
+		[<a href= "https://www.tandfonline.com/doi/full/10.1080/09540091.2022.2080806" target="_blank">Link</a>]
+		&nbsp;&nbsp;&nbsp;
+		[<a href= "http://qinjisheng.top/Files/2022/Feature recommendation strategy for graph convolutional network.pdf" target="_blank">PDF</a>]
+		</span>
+	</span>
+</p>
+</ul>
+
+<ul>
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
+	<span>[3] <b>J. Qin</b>, X Zeng, S. Wu, E. Tang “E-GCN: graph convolution with estimated labels [J],” 
+		<i> Applied Intelligence </i>,2021, vol. 51, no. 7, pp: 5007-5015. (<b>SCI</b>)  
+		
+		<span style= "float:right;">
+		--
+		[<a href= "https://link.springer.com/article/10.1007/s10489-020-02093-5" target="_blank">Link</a>]
+		&nbsp;&nbsp;&nbsp;
+		[<a href= "http://qinjisheng.top/Files/2021/E-GCN：graph convolution with estimated labels.pdf" target="_blank">PDF</a>]
+		</span>
+	</span>
+</p>
+</ul>
+
+</font>
+<br />
+
+<p><b>Conference Papers</b>: </p>
+<br />
+<br />
+
+<A NAME="Patents"><h2>Patents</h2></A>
+<font size="3"> 
+<ul>
+
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
+	<li><span> XXXXXXX , <br /> XXXXXX, </span></li>
+</p>
+
+</ul>
+</font>
+
+<br />
+<br />
+<br />
+	
+<A NAME="Foundations"><h2>Foundations</h2></A>
+<font size="3"> 
+<ul>
+
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
+	<li><span>基于上下文相关的图表示学习 <span style= "float:right;"> --主持, 江苏省创新计划, KYCX21_0484,&nbsp;2021.06~2022.06 </span> </span></li>
+</p>
+
+</ul>
+</font>
+
+<br />
+<br />
+<br />
+
+<A NAME="Awards"><h2>Awards</h2></A>
+<font size="3"> 
+<ul>
+<li>2023, XXXXXXX.</li>    
+</li>
+</ul>
+</font>
+<br />
+<br />
+
+
+<A NAME="Projects"><h2>Open Source Projects</h2></A>
+
+<font size="3"> 
+<ul>
+<li><b>XXXXX</b>
+</li>
+</ul>
+</font>
+<br />
+<br />
+
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5yaha4wk64q&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+ 
+<div id="article"></div>
+<div id="back_top">
+<div class="arrow"></div>
+<div class="stick"></div>
+</div>
+
+<script>
+$(function(){
+    $(window).scroll(function(){  //If scroll
+        var scrollt = document.documentElement.scrollTop + document.body.scrollTop; //Getting Height after scroll
+        if( scrollt >400 )
+        {  
+            $("#back_top").fadeIn(400); 
+        }
+        else
+        {
+            $("#back_top").stop().fadeOut(400);
+        }
+    });
+
+    $("#back_top").click(function(){ 
+
+        $("html,body").animate({scrollTop:"0px"}, 200);
+
+    }); 
+
+});
+</script>
+
+<p align="center">
+	<font size="2"; color="#A0A0A0";>
+		All Rights Reserved by Jisheng Qin. Updating time: 2023.01.01
+	</font>
+</p>
+</body>
+</html>
